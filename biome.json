@@ -13,13 +13,8 @@
 		"enabled": true
 	},
 	"files": {
-		"ignoreUnknown": false,
-		"includes": [
-			"**/*.ts",
-			"**/*.tsx",
-			"**/*.json",
-			"**/*.css"
-		]
+		"ignoreUnknown": true,
+		"includes": ["**/*.ts", "**/*.tsx", "**/*.json", "**/*.css"]
 	},
 	"formatter": {
 		"attributePosition": "multiline",

@@ -7,6 +7,7 @@
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
         "vincaslt.highlight-matching-tag",
-        "qcz.text-power-tools"
+        "qcz.text-power-tools",
+        "oderwat.indent-rainbow"
     ]
 }
